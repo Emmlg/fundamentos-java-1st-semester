@@ -1,0 +1,29 @@
+# Java bytecode and packages
+*.class
+*.jar
+*.war
+*.ear
+
+# Build output
+bin/
+out/
+target/
+build/
+dist/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# IDE/editor files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
