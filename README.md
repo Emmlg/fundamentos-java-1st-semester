@@ -1,44 +1,45 @@
 # 📚 Fundamentos de Programación Java
 
-Este repositorio contiene el portafolio de evidencias desarrollado durante el **1er Semestre** de la carrera de Ingeniería en Sistemas Computacionales en el **TecNM Campus Comitán**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Estudiante-TecNM-blue?style=for-the-badge" />
+</p>
 
-El proyecto ha sido organizado y estandarizado para servir como una guía de aprendizaje de los conceptos fundamentales de la programación orientada a objetos y lógica algorítmica.
-
----
-
-## 📂 Estructura del Proyecto
-
-El código se divide en unidades temáticas que reflejan el progreso académico:
-
-*   **[01-condicionales](./src/01-condicionales):** Uso de if, else, switch y operadores lógicos.
-*   **[02-ciclos](./src/02-ciclos):** Estructuras repetitivas (for, while, do-while) y anidamiento.
-*   **[03-metodos](./src/03-metodos):** Modularización, funciones con retorno y paso de parámetros.
-*   **[04-arreglos](./src/04-arreglos):** Manipulación de vectores unidimensionales y algoritmos de búsqueda.
-*   **[05-matrices](./src/05-matrices):** Arreglos bidimensionales, sumas perimetrales y diagonales.
-*   **[06-registros](./src/06-registros):** Agrupación de datos heterogéneos mediante clases internas (CRUD básico).
-*   **[07-practicas-integradoras](./src/07-practicas-integradoras):** Resolución de problemas complejos que integran todos los temas anteriores.
-*   **[08-examenes](./src/08-examenes):** Evaluaciones prácticas del curso.
+Este repositorio es el **Portafolio de Evidencias** del 1er Semestre (Ingeniería en Sistemas Computacionales). Aquí se documenta mi evolución desde la lógica básica hasta estructuras de datos complejas.
 
 ---
 
-## 🛠️ Estándares de Código
+## 🗺️ Mapa del Repositorio
 
-Cada archivo .java ha sido documentado siguiendo un formato estandarizado que incluye:
+| Unidad | Tema Principal | Conceptos Clave |
+| :--- | :--- | :--- |
+| **01** | [Condicionales](./src/01-condicionales) | `if-else`, `switch`, lógica booleana |
+| **02** | [Ciclos](./src/02-ciclos) | `while`, `for`, bucles anidados |
+| **03** | [Métodos](./src/03-metodos) | Modularización, parámetros, retornos |
+| **04** | [Arreglos](./src/04-arreglos) | Vectores, índices, búsqueda |
+| **05** | [Matrices](./src/05-matrices) | 2D, diagonales, sumas perimetrales |
+| **06** | [Registros](./src/06-registros) | Clases internas, CRUD, Objetos |
+| **07** | [Integradoras](./src/07-practicas-integradoras) | Resolución de problemas reales |
+| **08** | [Exámenes](./src/08-examenes) | Evaluaciones prácticas del curso |
 
-- **Concepto:** El tema principal que se aborda.
-- **Descripción:** Explicación detallada del problema resuelto.
-- **Autor:** Emmanuel López.
-- **Estructura:** Código limpio, nombres de variables descriptivos y lógica optimizada.
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
 ---
 
 ## 🚀 Cómo ejecutar los ejercicios
 
-1.  Asegúrate de tener instalado el **JDK 17** o superior.
-2.  Clona este repositorio.
-3.  Navega a la carpeta del ejercicio deseado en src/.
-4.  Compila y ejecuta usando tu terminal o IDE preferido (NetBeans, IntelliJ, VS Code).
-
+1. Asegúrate de tener instalado el **JDK 17** o superior.
+2. Clona este repositorio.
+3. Navega a la carpeta del ejercicio deseado en `src/`.
+4. Compila y ejecuta:
 ```bash
 javac NombreArchivo.java
 java NombreArchivo
@@ -46,5 +47,7 @@ java NombreArchivo
 
 ---
 
-**Autor:** Emmanuel López | **No. de Control:** 21700198
-**Institución:** Instituto Tecnológico de Comitán
+## ✒️ Autor
+**Emmanuel López**  
+🆔 *No. Control: 21700198*  
+🏛️ *TecNM Campus Comitán*
