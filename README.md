@@ -48,6 +48,5 @@ java NombreArchivo
 ---
 
 ## ✒️ Autor
-**Emmanuel López**  
-🆔 *No. Control: 21700198*  
+**Emmanuel López**   
 🏛️ *TecNM Campus Comitán*
